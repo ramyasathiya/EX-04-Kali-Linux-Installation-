@@ -1,7 +1,7 @@
 # EX-04-Installing Kali Linux on VirtualBox4
 
-**Name** : Yuvaraj B<br>
-**Reg No** : 212222040186
+**Name** : RAMYA S<br>
+**Reg No** : 212222040130
 
 ## Objective:
 Install and configure Kali Linux in Oracle VM VirtualBox.
